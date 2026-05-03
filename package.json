@@ -14,7 +14,7 @@
     "ejs-lint": "^2.0.1",
     "express": "^4.22.1",
     "morgan": "^1.10.1",
-    "uuid": "^3.3.3"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
